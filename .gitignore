@@ -1,0 +1,6 @@
+.idea
+vendor
+bins
+cadenceservice/data/cassandra/*
+__debug_bin
+.DS_Store
