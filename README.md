@@ -31,6 +31,8 @@ This workflow example consists of two parts:
 
 - The second part, a signal will be sent to indicate the years you have and the workflow will end.
 
+![workflow](./docs/workflow.png)
+
 If you enter the [Cadence console](http://localhost:8088/) between step 1 and step 2, the workflow goes from "Open/Running" to "Completed".
 
 
